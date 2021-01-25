@@ -1,0 +1,129 @@
+D:\Robocon\Engine\Robocon_2019_01\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+D:\Robocon\Engine\Robocon_2019_01\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe
+D:\Robocon\Engine\Robocon_2019_01\Robocon_2019_01\bin\Debug\Robocon_2019_01.pdb
+D:\Robocon\Engine\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.csprojAssemblyReference.cache
+D:\Robocon\Engine\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.Form1.resources
+D:\Robocon\Engine\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.Properties.Resources.resources
+D:\Robocon\Engine\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.GenerateResource.cache
+D:\Robocon\Engine\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.CoreCompileInputs.cache
+D:\Robocon\Engine\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+D:\Robocon\Engine\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+D:\Robocon_2019_01\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+D:\Robocon_2019_01\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe
+D:\Robocon_2019_01\Robocon_2019_01\bin\Debug\Robocon_2019_01.pdb
+D:\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.csprojAssemblyReference.cache
+D:\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.Form1.resources
+D:\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.Properties.Resources.resources
+D:\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.GenerateResource.cache
+D:\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.CoreCompileInputs.cache
+D:\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+D:\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+C:\Robocon_Project\Windows\Robocon_2019_01\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+C:\Robocon_Project\Windows\Robocon_2019_01\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe
+C:\Robocon_Project\Windows\Robocon_2019_01\Robocon_2019_01\bin\Debug\Robocon_2019_01.pdb
+C:\Robocon_Project\Windows\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.csprojAssemblyReference.cache
+C:\Robocon_Project\Windows\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.Form1.resources
+C:\Robocon_Project\Windows\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.Properties.Resources.resources
+C:\Robocon_Project\Windows\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.GenerateResource.cache
+C:\Robocon_Project\Windows\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.CoreCompileInputs.cache
+C:\Robocon_Project\Windows\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+C:\Robocon_Project\Windows\Robocon_2019_01\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+C:\Users\student\Desktop\D05\C#\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+C:\Users\student\Desktop\D05\C#\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe
+C:\Users\student\Desktop\D05\C#\Robocon_2019_01\bin\Debug\Robocon_2019_01.pdb
+C:\Users\student\Desktop\D05\C#\Robocon_2019_01\obj\Debug\Robocon_2019_01.csprojAssemblyReference.cache
+C:\Users\student\Desktop\D05\C#\Robocon_2019_01\obj\Debug\Robocon_2019_01.Form1.resources
+C:\Users\student\Desktop\D05\C#\Robocon_2019_01\obj\Debug\Robocon_2019_01.Properties.Resources.resources
+C:\Users\student\Desktop\D05\C#\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.GenerateResource.cache
+C:\Users\student\Desktop\D05\C#\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\D05\C#\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+C:\Users\student\Desktop\D05\C#\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+C:\Users\student\Desktop\Version2 (Get Angle)\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+C:\Users\student\Desktop\Version2 (Get Angle)\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe
+C:\Users\student\Desktop\Version2 (Get Angle)\Robocon_2019_01\bin\Debug\Robocon_2019_01.pdb
+C:\Users\student\Desktop\Version2 (Get Angle)\Robocon_2019_01\obj\Debug\Robocon_2019_01.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Version2 (Get Angle)\Robocon_2019_01\obj\Debug\Robocon_2019_01.Form1.resources
+C:\Users\student\Desktop\Version2 (Get Angle)\Robocon_2019_01\obj\Debug\Robocon_2019_01.Properties.Resources.resources
+C:\Users\student\Desktop\Version2 (Get Angle)\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Version2 (Get Angle)\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Version2 (Get Angle)\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+C:\Users\student\Desktop\Version2 (Get Angle)\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+C:\Users\student\Desktop\Version3 (Enable)\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+C:\Users\student\Desktop\Version3 (Enable)\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe
+C:\Users\student\Desktop\Version3 (Enable)\Robocon_2019_01\bin\Debug\Robocon_2019_01.pdb
+C:\Users\student\Desktop\Version3 (Enable)\Robocon_2019_01\obj\Debug\Robocon_2019_01.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Version3 (Enable)\Robocon_2019_01\obj\Debug\Robocon_2019_01.Form1.resources
+C:\Users\student\Desktop\Version3 (Enable)\Robocon_2019_01\obj\Debug\Robocon_2019_01.Properties.Resources.resources
+C:\Users\student\Desktop\Version3 (Enable)\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Version3 (Enable)\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Version3 (Enable)\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+C:\Users\student\Desktop\Version3 (Enable)\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+C:\Users\ic382\Desktop\Version4(SetAction)\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+C:\Users\ic382\Desktop\Version4(SetAction)\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe
+C:\Users\ic382\Desktop\Version4(SetAction)\Robocon_2019_01\bin\Debug\Robocon_2019_01.pdb
+C:\Users\ic382\Desktop\Version4(SetAction)\Robocon_2019_01\obj\Debug\Robocon_2019_01.csprojAssemblyReference.cache
+C:\Users\ic382\Desktop\Version4(SetAction)\Robocon_2019_01\obj\Debug\Robocon_2019_01.Form1.resources
+C:\Users\ic382\Desktop\Version4(SetAction)\Robocon_2019_01\obj\Debug\Robocon_2019_01.Properties.Resources.resources
+C:\Users\ic382\Desktop\Version4(SetAction)\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.GenerateResource.cache
+C:\Users\ic382\Desktop\Version4(SetAction)\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.CoreCompileInputs.cache
+C:\Users\ic382\Desktop\Version4(SetAction)\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+C:\Users\ic382\Desktop\Version4(SetAction)\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+C:\Users\student\Desktop\Version5(Final)\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+C:\Users\student\Desktop\Version5(Final)\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+C:\Users\student\Desktop\Version5(Final)\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+C:\Users\student\Desktop\Version5(Final)\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe
+C:\Users\student\Desktop\Version5(Final)\Robocon_2019_01\bin\Debug\Robocon_2019_01.pdb
+C:\Users\student\Desktop\Version5(Final)\Robocon_2019_01\obj\Debug\Robocon_2019_01.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Version5(Final)\Robocon_2019_01\obj\Debug\Robocon_2019_01.Form1.resources
+C:\Users\student\Desktop\Version5(Final)\Robocon_2019_01\obj\Debug\Robocon_2019_01.Properties.Resources.resources
+C:\Users\student\Desktop\Version5(Final)\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Version5(Final)\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Version6(Final) - Copy\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+C:\Users\student\Desktop\Version6(Final) - Copy\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe
+C:\Users\student\Desktop\Version6(Final) - Copy\Robocon_2019_01\bin\Debug\Robocon_2019_01.pdb
+C:\Users\student\Desktop\Version6(Final) - Copy\Robocon_2019_01\obj\Debug\Robocon_2019_01.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Version6(Final) - Copy\Robocon_2019_01\obj\Debug\Robocon_2019_01.Form1.resources
+C:\Users\student\Desktop\Version6(Final) - Copy\Robocon_2019_01\obj\Debug\Robocon_2019_01.Properties.Resources.resources
+C:\Users\student\Desktop\Version6(Final) - Copy\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Version6(Final) - Copy\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Version6(Final) - Copy\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+C:\Users\student\Desktop\Version6(Final) - Copy\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+C:\Users\chanc\Desktop\Version6(Walking)\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+C:\Users\chanc\Desktop\Version6(Walking)\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+C:\Users\chanc\Desktop\Version6(Walking)\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+C:\Users\chanc\Desktop\Version8(Cross)\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+C:\Users\chanc\Desktop\Version8(Cross)\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+C:\Users\chanc\Desktop\Version8(Cross)\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+C:\Users\chanc\Desktop\Version8(Cross)\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe
+C:\Users\chanc\Desktop\Version8(Cross)\Robocon_2019_01\bin\Debug\Robocon_2019_01.pdb
+C:\Users\chanc\Desktop\Version8(Cross)\Robocon_2019_01\obj\Debug\Robocon_2019_01.csprojResolveAssemblyReference.cache
+C:\Users\chanc\Desktop\Version8(Cross)\Robocon_2019_01\obj\Debug\Robocon_2019_01.Form1.resources
+C:\Users\chanc\Desktop\Version8(Cross)\Robocon_2019_01\obj\Debug\Robocon_2019_01.Properties.Resources.resources
+C:\Users\chanc\Desktop\Version8(Cross)\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.GenerateResource.Cache
+C:\Users\chanc\Desktop\Version Final\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+C:\Users\chanc\Desktop\Version Final\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+C:\Users\chanc\Desktop\Version Final\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+C:\Users\chanc\Desktop\Version Final\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe
+C:\Users\chanc\Desktop\Version Final\Robocon_2019_01\bin\Debug\Robocon_2019_01.pdb
+C:\Users\chanc\Desktop\Version Final\Robocon_2019_01\obj\Debug\Robocon_2019_01.csprojResolveAssemblyReference.cache
+C:\Users\chanc\Desktop\Version Final\Robocon_2019_01\obj\Debug\Robocon_2019_01.Form1.resources
+C:\Users\chanc\Desktop\Version Final\Robocon_2019_01\obj\Debug\Robocon_2019_01.Properties.Resources.resources
+C:\Users\chanc\Desktop\Version Final\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.GenerateResource.Cache
+C:\Users\chanc\Desktop\Task1+2\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+C:\Users\chanc\Desktop\Task1+2\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+C:\Users\chanc\Desktop\Task1+2\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+C:\Users\chanc\Desktop\Task1+2\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe
+C:\Users\chanc\Desktop\Task1+2\Robocon_2019_01\bin\Debug\Robocon_2019_01.pdb
+C:\Users\chanc\Desktop\Task1+2\Robocon_2019_01\obj\Debug\Robocon_2019_01.csprojResolveAssemblyReference.cache
+C:\Users\chanc\Desktop\Task1+2\Robocon_2019_01\obj\Debug\Robocon_2019_01.Form1.resources
+C:\Users\chanc\Desktop\Task1+2\Robocon_2019_01\obj\Debug\Robocon_2019_01.Properties.Resources.resources
+C:\Users\chanc\Desktop\Task1+2\Robocon_2019_01\obj\Debug\Robocon_2019_01.csproj.GenerateResource.Cache
+C:\Users\chanc\Documents\University\Programme Study\Y3S2\IC382\Program Code\Window C#\Task1+2\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+C:\Users\chanc\Documents\University\Programme Study\Y3S2\IC382\Program Code\Window C#\Task1+2\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+C:\Users\chanc\Documents\University\Programme Study\Y3S2\IC382\Program Code\Window C#\Task1+2\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+C:\Users\chanc\Documents\Work\Profile\Tecent\GitHub\Robotics_ControlSystem\Task1+2\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+C:\Users\chanc\Documents\Work\Profile\Tecent\GitHub\Robotics_ControlSystem\Task1+2\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+C:\Users\chanc\Documents\Work\Profile\Tecent\GitHub\Robotics_ControlSystem\Task1+2\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
+C:\Users\chanc\Documents\Work\Profile\Tecent\GitHub\Robotics_ControlSystem\C#\Task1+2\Robocon_2019_01\bin\Debug\Robocon_2019_01.exe.config
+C:\Users\chanc\Documents\Work\Profile\Tecent\GitHub\Robotics_ControlSystem\C#\Task1+2\Robocon_2019_01\obj\Debug\Robocon_2019_01.exe
+C:\Users\chanc\Documents\Work\Profile\Tecent\GitHub\Robotics_ControlSystem\C#\Task1+2\Robocon_2019_01\obj\Debug\Robocon_2019_01.pdb
